@@ -1,5 +1,7 @@
 ### Baseline completions (2025-06-14 17:30 UTC)
-Temperature = default (≈ 1)   top_p = 1.0   max_tokens = model default  
+- **Settings:** temperature=default (≈ 1)   top_p = 1.0   max_tokens = model default
+- **Purpose:** Test for retrocausal influence / semantic attractor basin formation
+- **License:** CC-BY 4.0
 
 | Model | Prompt | Top-line answer snippet |
 |-------|--------|-------------------------|
